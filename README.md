@@ -1,6 +1,7 @@
 #### Olá! Eu sou o Renner 👋
+
 <div align="center">
- 🎓 Engenheiro de Computação | 👨🏻‍💻 Pós-Graduado em Engenharia de Software <br></br>
+ 🎓 Engenheiro de Computação | 👨🏻‍💻 Pós-Graduado em Engenharia de Software
 </div>
 
 
@@ -20,11 +21,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
+
 <div align="center">
   <a href="https://github.com/rennernunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rennernunes&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennernunes&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
+ 
+ ##
+ 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Renner-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Renner-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
