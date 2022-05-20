@@ -1,4 +1,4 @@
-#### Olá! Eu sou o Renner 👋
+### Olá! Eu sou o Renner 👋
 
 <div align="center">
  🎓 Engenheiro de Computação | 👨🏻‍💻 Pós-Graduado em Engenharia de Software
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Renner-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Renner-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">          
   <img align="center" alt="Renner-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Renner-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Renner-Selenium" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png">
