@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renner 👋
 
 <div align="center">
- 🎓 Engenheiro de Computação | 👨🏻‍💻 Pós-Graduado em Engenharia de Software
+🎓 Engenheiro de Computação | 👨🏻‍💻 Pós-Graduado em Engenharia de Software
 </div>
 
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ##
 
 <div align="center">
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </div>
  
  ##
+-->
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Renner-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Renner-Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Renner-Sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Renner-VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
- 
+  <img align="center" alt="Renner-Robot" height="60" width="60" src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.png">
 </div>
   
   ##
