@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   ##
   
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Renner-Copilot" height="40" width="45" src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png">
+  <img align="center" alt="Renner-OpenIA" height="60" width="60" src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000">
   <img align="center" alt="Renner-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Renner-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Renner-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">          
