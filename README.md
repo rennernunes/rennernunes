@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Renner 👋
 
 <div align="center">
-🎓 Engenheiro de Computação
-👨🏻‍💻 Pós-Graduado em Engenharia de Software 
+🎓 Engenheiro de Computação<br>
+👨🏻‍💻 Pós-Graduado em Engenharia de Software<br>
 🤖 Pós-Graduando em Inteligência Artificial Aplicada
 </div>
 
