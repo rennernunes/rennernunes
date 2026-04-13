@@ -3,7 +3,7 @@
 <div align="center">
 🎓 Engenheiro de Computação<br>
 👨🏻‍💻 Pós-Graduado em Engenharia de Software<br>
-🤖 Pós-Graduando em Inteligência Artificial Aplicada
+🤖 Pós-Graduado em Inteligência Artificial Aplicada - UFPR
 </div>
 
 
