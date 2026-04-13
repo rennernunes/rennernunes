@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   <!--
 ##
   <img align="center" alt="Renner-Python" height="40" width="45" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />">-->
+  <img align="center" alt="Renner-ClaudeIA" height="50" width="50" src="https://img.icons8.com/fluency/48/claude-ai.png">
+  <img align="center" alt="Renner-CopilotIA" height="45" width="45" src="https://img.icons8.com/fluency/48/github-copilot.png">
   <img align="center" alt="Renner-OpenIA" height="60" width="60" src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000">
   <img align="center" alt="Renner-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Renner-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
